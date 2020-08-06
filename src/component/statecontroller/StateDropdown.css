@@ -1,0 +1,15 @@
+.state-box {
+}
+
+.statecontroller-dropdown-btn {
+  display: flex;
+  padding: 3px 5px;
+  font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
+.statecontroller-dropdown-btn:hover {
+}

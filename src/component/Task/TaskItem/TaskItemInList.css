@@ -1,0 +1,48 @@
+.task-item-row {
+  padding: 5px 0px;
+  border: 0.1px dotted #3272d9;
+  background-color: white;
+  font-size: 14px;
+  margin: 3px 0% 3px 30px;
+}
+
+.row-item-id {
+  color: rgb(86, 145, 240);
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 15.96px;
+}
+.row-item-id-icon {
+  color: #3272d9;
+  margin-right: 3px;
+  position: relative;
+  bottom: 2px;
+}
+
+.row-item-id-col {
+  padding-right: 0px;
+}
+.row-item-title {
+  font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
+.taskitem-datepicker {
+  /* border: 1px solid #3272d9; */
+  border-radius: 5%;
+}
+.row-item-calender-icon {
+  color: #3272d9;
+  margin-left: 3px;
+  position: relative;
+  bottom: 3px;
+}
+.react-datepicker__input-container input {
+  border: none;
+}
+.row-item-closedate-col {
+  padding: 0px;
+}

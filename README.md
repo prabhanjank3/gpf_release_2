@@ -1,2 +1,2 @@
-# gpf_release_2
+# goal-portal-frontend
 Created with CodeSandbox

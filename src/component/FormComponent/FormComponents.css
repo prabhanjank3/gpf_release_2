@@ -1,0 +1,21 @@
+.item-heading-bar {
+  background-color: #3272d9;
+}
+.item-heading-bar-id {
+  display: inline;
+}
+.item-heading-bar-title {
+  display: inline;
+}
+textarea {
+  width: 100%;
+}
+.pts-input {
+  width: 80%;
+}
+.small-info-btn-div {
+  margin-top: 30px;
+}
+.title-input {
+  width: 100%;
+}

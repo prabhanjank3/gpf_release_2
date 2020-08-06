@@ -1,0 +1,11 @@
+.login-form-container {
+  margin-top: 10%;
+  width: 30%;
+}
+.auth-input-field {
+  margin: 20px;
+}
+.auth-submit-btn {
+  margin: 0% 20px;
+  width: 100%;
+}

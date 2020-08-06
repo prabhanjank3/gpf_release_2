@@ -1,0 +1,13 @@
+.task-item-heading-row {
+  padding: 5px 0px;
+  border: 0.1px dotted #3272d9;
+  background-color: white;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15.96px;
+  margin: 10px 0px 10px 20px;
+}
+.heading-col {
+  border-right: 0.5px dashed;
+  padding-left: 10px;
+}

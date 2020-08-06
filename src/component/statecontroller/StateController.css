@@ -1,0 +1,38 @@
+.state-box {
+  display: flex;
+}
+.state-block {
+  margin: 1px;
+  width: 20px;
+  height: 30px;
+  background-color: #3272d9;
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  padding-top: 3px;
+  border-radius: 15%;
+}
+
+.state-block-gray {
+  margin: 1px;
+  width: 20px;
+  height: 30px;
+  background-color: #dde3ed;
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  padding-top: 3px;
+  border-radius: 15%;
+}
+
+.state-block-lightblue {
+  margin: 1px;
+  width: 20px;
+  height: 30px;
+  background-color: #5691f0;
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  padding-top: 3px;
+  border-radius: 15%;
+}
